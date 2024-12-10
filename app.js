@@ -1,6 +1,9 @@
-require("./xyz.js"); // one module into another
+require(""); // one module into another
 
 const {calculateMultiply, calculateSum}= require("./calculate")
+
+const data= require("./data.json");
+console.log(data);
 
 var name = "Namaste Nodejs";
 

@@ -1,5 +1,0 @@
-{
-    "//comment":"If we are using common js then no need as it is by default version of NodeJS",
-    "type": "commonjs"
-}
-
